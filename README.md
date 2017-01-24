@@ -9,3 +9,6 @@ jForza4 is the first game that I made, entirely written using the Java language 
 
 ##Screenshoot
 https://github.com/rosarioterranova/jforza4/tree/master/screenshoots
+
+Download build
+https://github.com/rosarioterranova/jforza4/blob/master/jForza4%20v0.6.2.jar?raw=true
