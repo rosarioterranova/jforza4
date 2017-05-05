@@ -1,7 +1,7 @@
-##Description
+# Description
 jForza4 is the first game that I made, entirely written using the Java language JavaSwing graphics libraries. It takes the classic board game of Forza 4 with the same rules.
 
-##Info
+# Info
 - **Name**: jForza4
 - **Platform**: Windows, Linux, Mac
 - **Game Engine**: Java Swing
